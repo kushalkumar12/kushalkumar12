@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend-focused Java Engineer with 3+ years of experience building scalable, production-grade backend systems. I specialize in Java, Spring Boot, Microservices, REST APIs, SQL, and Apache Kafka, with hands-on experience solving high-concurrency and large-scale data processing problems.<br><br>I enjoy owning features end-to-end—from design and development to production support—and I care deeply about clean architecture, performance optimization, and system reliability. Most of my work is focused on building backend systems that handle real-world load, complex workflows, and enterprise constraints.<br><br>Always learning, always improving, and always curious about how large-scale systems work.
+Experienced Java Software Engineer with over 3 years of delivering enterprise-grade applications. Skilled in Java, Spring Boot, Microservices, Rest APIs, SQL Server, Oracle, Docker, and Kafka. Focused on building scalable, high-performance solutions with clean architecture. Proven ability to lead development efforts and optimize system performance. Eager to bring technical expertise and innovative problem-solving to a forward-thinking team. Let's connect to explore how I can contribute to your organization's success.
 
 
 ## 🌐 Socials:

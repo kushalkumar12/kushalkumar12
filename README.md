@@ -1,5 +1,5 @@
 # 💫 About Me:
-Experienced Java Software Engineer with over 3 years of delivering enterprise-grade applications. Skilled in Java, Spring Boot, Microservices, Rest APIs, SQL Server, Oracle, Docker, and Kafka. Focused on building scalable, high-performance solutions with clean architecture. Proven ability to lead development efforts and optimize system performance. Eager to bring technical expertise and innovative problem-solving to a forward-thinking team. Let's connect to explore how I can contribute to your organization's success.
+Experienced Java Software Engineer with over 3+ years of delivering enterprise-grade applications. Skilled in Java, Spring Boot, Microservices, Rest APIs, SQL Server, Oracle, Docker, and Kafka. Focused on building scalable, high-performance solutions with clean architecture. Proven ability to lead development efforts and optimize system performance. Eager to bring technical expertise and innovative problem-solving to a forward-thinking team. Let's connect to explore how I can contribute to your organization's success.
 
 
 ## 🌐 Socials:

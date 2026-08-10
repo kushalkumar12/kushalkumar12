@@ -2,5 +2,7 @@
 
 ## Tech
 Java • Spring Boot • Kafka • Microservices
+
+## Open For
 Looking for responsible opportunities.
 I am good at product thinking and analyzing the application.
